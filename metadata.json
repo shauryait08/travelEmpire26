@@ -1,0 +1,6 @@
+{
+  "name": "NetCore - IT & Network Support Platform",
+  "description": "Comprehensive enterprise IT support and managed networking platform featuring live network diagnostics, topology monitoring, ticketing portal, and 24/7 NOC helpdesk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
